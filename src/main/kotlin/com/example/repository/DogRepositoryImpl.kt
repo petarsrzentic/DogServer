@@ -21,7 +21,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 1,
             name = "Davis",
-            image = "/images/Davis.jpg",
+            image = "/images/Davis1.jpg",
             about = "Davis is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "male",
             distance = "224m away",
@@ -32,7 +32,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 2,
             name = "Marry",
-            image = "/images/Marry.jpg",
+            image = "/images/Marry1.jpg",
             about = "Marry is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "female",
             distance = "224m away",
@@ -43,7 +43,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 3,
             name = "Alicia",
-            image = "/images/Alicia.jpg",
+            image = "/images/Alicia1.jpg",
             about = "Alicia is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "female",
             distance = "748m away",
@@ -57,7 +57,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 4,
             name = "Pierre",
-            image = "/images/Pierre.jpg",
+            image = "/images/Pierre1.jpg",
             about = "Pierre is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book!",
             gender = "male",
             distance = "224m away",
@@ -68,7 +68,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 5,
             name = "Bern",
-            image = "/images/Bern.jpg",
+            image = "/images/Bern1.jpg",
             about = "Bern is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             gender = "male",
             distance = "660, away",
@@ -79,7 +79,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 6,
             name = "Lilly",
-            image = "/images/Lilly.jpg",
+            image = "/images/Lilly1.jpg",
             about = "Lilly is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "female",
             distance = "138m away",
@@ -92,7 +92,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 7,
             name = "Mike",
-            image = "/images/Mike.jpg",
+            image = "/images/Mike1.jpg",
             about = "Mike is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "male",
             distance = "1km away",
@@ -103,7 +103,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 8,
             name = "Fred",
-            image = "/images/Fred.jpg",
+            image = "/images/Fred1.jpg",
             about = "Fred is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "male",
             distance = "1,2km away",
@@ -114,7 +114,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 9,
             name = "Rex",
-            image = "/images/Rex.jpg",
+            image = "/images/Rex1.jpg",
             about = "Rex is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "male",
             distance = "1,5km away",
@@ -127,7 +127,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 10,
             name = "Jacky",
-            image = "/images/Jacky.jpg",
+            image = "/images/Jacky1.jpg",
             about = "Jacky is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "male",
             distance = "330m away",
@@ -138,7 +138,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 11,
             name = "Nelly",
-            image = "/images/Nelly.jpg",
+            image = "/images/Nelly1.jpg",
             about = "Nelly is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "female",
             distance = "754m away",
@@ -149,7 +149,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 12,
             name = "Loco",
-            image = "/images/Loco.jpg",
+            image = "/images/Loco1.jpg",
             about = "Loco is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "male",
             distance = "614m away",
@@ -163,7 +163,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 13,
             name = "Rosemary",
-            image = "/images/Rosemary.jpg",
+            image = "/images/Rosemary1.jpg",
             about = "Rosemary is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "female",
             distance = "294m away",
@@ -174,7 +174,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 14,
             name = "Fifi",
-            image = "/images/Fifi.jpg",
+            image = "/images/Fifi1.jpg",
             about = "Fifi is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "female",
             distance = "582m away",
@@ -185,7 +185,7 @@ class DogRepositoryImpl : DogRepository {
         Dog(
             id = 15,
             name = "Marley",
-            image = "/images/Marley.jpg",
+            image = "/images/Marley1.jpg",
             about = "Rosemary is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "male",
             distance = "904m away",
