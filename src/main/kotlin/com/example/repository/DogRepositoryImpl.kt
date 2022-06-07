@@ -186,7 +186,7 @@ class DogRepositoryImpl : DogRepository {
             id = 15,
             name = "Marley",
             image = "/images/Marley1.jpg",
-            about = "Rosemary is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+            about = "Marley is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
             gender = "male",
             distance = "904m away",
             age = 9.4,
